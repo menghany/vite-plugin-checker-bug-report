@@ -1,0 +1,25 @@
+:root {
+  /* ----------------全局---------------- */
+
+  /* 主题色 */
+  --sw-primary-color: #2767e8;
+  --sw-primary-color-rgb: 39, 103, 232;
+
+  /* 红色 */
+  --sw-red-color: #f33044;
+  --sw-red-color-rgb: 243, 48, 68;
+
+  /* 黄色 */
+  --sw-yellow-color: #ff9838;
+  --sw-yellow-color-rgb: 255, 152, 56;
+
+  /* 字体颜色 */
+  --sw-text-color-regular: #333;
+  --sw-text-color-secondary: #666;
+
+  /* 灰色背景 */
+  --sw-bg-gray-color: #f0f2f5;
+
+  /* 圆角 */
+  --sw-border-radius-base: 4px;
+}
